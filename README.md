@@ -23,12 +23,6 @@ Version disponible : **0.5.3 · Android 10 et suivants · Français, English, ا
 
 La naturalisation est le premier parcours suivi. Les titres de séjour et changements de situation sont présentés selon les informations accessibles au compte ; certains formats de demandes actives restent à valider. Une rubrique indisponible n’est pas une preuve d’absence de demande.
 
-## Aperçu
-
-Captures réelles de la version de développement 0.5.3, sur un compte vide et sans identifiants. Elles montrent les écrans avant connexion ; aucun dossier fictif ou personnel n’a été ajouté.
-
-<table><tr><td><img src="screenshots/accueil.png" width="240" alt="Accueil avant connexion"></td><td><img src="screenshots/demandes.png" width="240" alt="Mes demandes sans compte"></td><td><img src="screenshots/messages.png" width="240" alt="Messages sans compte"></td></tr><tr><td>Accueil</td><td>Mes demandes</td><td>Messages</td></tr><tr><td><img src="screenshots/rendez-vous.png" width="240" alt="Rendez-vous sans donnée personnelle"></td><td><img src="screenshots/profil.png" width="240" alt="Profil avant connexion"></td><td><img src="screenshots/aide.png" width="240" alt="Aide et questions fréquentes"></td></tr><tr><td>Rendez-vous</td><td>Profil</td><td>Aide</td></tr></table>
-
 ## Vos données sur votre téléphone
 
 L’enregistrement des identifiants est facultatif. Les données locales sont chiffrées avec une protection liée à Android Keystore. Les sauvegardes cloud et transferts Android sont désactivés. Le verrouillage par empreinte, visage ou code du téléphone est optionnel.
