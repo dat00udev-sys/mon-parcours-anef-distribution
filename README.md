@@ -1,27 +1,48 @@
-# Mon Parcours ANEF — distribution Android
+# Mon Parcours ANEF
 
-Application indépendante de suivi et d’explication des démarches ANEF. Ce projet n’est pas affilié au ministère de l’Intérieur.
+**Chaque étape, un peu plus claire.**
 
-## État de la distribution
+Une application Android gratuite et sans publicité pour retrouver les informations disponibles dans votre compte ANEF, comprendre votre parcours et garder vos messages et documents à portée de main.
 
-La distribution publique est en préparation. Aucune APK de production n’est encore publiée.
+**Application indépendante, sans affiliation au ministère de l’Intérieur.** Les messages et décisions du portail officiel font référence. L’application ne dépose pas de demande et ne garantit aucun délai administratif.
 
-## Télécharger
+Version de référence : **0.5.3 · Android 10 et suivants · Français, English, العربية**. Distribution en préparation : le dépôt reste privé, la Release est un brouillon. Un accès GitHub autorisé est nécessaire pour les téléchargements pendant cette phase.
 
-Les APK signées seront proposées dans [Releases](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases), une publication par version. Les utilisateurs ne doivent pas désinstaller l’application avant une mise à jour compatible.
+[Installer l’application](INSTALLATION.md) · [Guide d’utilisation](UTILISATION.md) · [Questions fréquentes](FAQ.md) · [Confidentialité](CONFIDENTIALITE.md) · [Nouveautés](CHANGELOG.md)
 
-## Mises à jour
+## Ce que vous pouvez retrouver
 
-Le fichier de versions sera publié à une adresse HTTPS stable après configuration de sa signature et validation de l’application. Il permettra d’annoncer une nouvelle version et, plus tard, le passage à Google Play. Aucune restriction de version n’est actuellement publiée.
+| Écran | À quoi il sert |
+|---|---|
+| Accueil | Retrouver le suivi et les actions utiles après synchronisation. |
+| Mes demandes | Consulter les demandes accessibles, leur statut et les explications adaptées. |
+| Messages | Lire les messages et télécharger les pièces disponibles à la demande. |
+| Rendez-vous | Organiser les rendez-vous et rappels locaux ; vérifier les dates détectées. |
+| Profil | Consulter les informations et titres récupérés depuis ANEF. |
+| Réglages et aide | Choisir la langue, le thème, les alertes et la fréquence ; comprendre les informations affichées. |
 
-## Confidentialité
+La naturalisation est le premier parcours suivi. Les titres de séjour et changements de situation sont présentés selon les informations accessibles au compte ; certains formats de demandes actives restent à valider. Une rubrique indisponible n’est pas une preuve d’absence de demande.
 
-Ce dépôt est réservé aux fichiers de distribution et aux informations publiques. Il ne contient ni code source de l’application, ni clés privées, ni identifiants ANEF, ni données de dossiers. Ne publiez pas de données personnelles dans les issues.
+## Aperçu
 
-## English
+Captures réelles de la version de développement 0.5.3, sur un compte vide et sans identifiants. Elles montrent les écrans avant connexion ; aucun dossier fictif ou personnel n’a été ajouté.
 
-Public distribution is being prepared. No production APK is available yet. Signed Android APKs will be published under Releases. This independent project is not affiliated with the French Ministry of the Interior.
+<table><tr><td><img src="screenshots/accueil.png" width="240" alt="Accueil avant connexion"></td><td><img src="screenshots/demandes.png" width="240" alt="Mes demandes sans compte"></td><td><img src="screenshots/messages.png" width="240" alt="Messages sans compte"></td></tr><tr><td>Accueil</td><td>Mes demandes</td><td>Messages</td></tr><tr><td><img src="screenshots/rendez-vous.png" width="240" alt="Rendez-vous sans donnée personnelle"></td><td><img src="screenshots/profil.png" width="240" alt="Profil avant connexion"></td><td><img src="screenshots/aide.png" width="240" alt="Aide et questions fréquentes"></td></tr><tr><td>Rendez-vous</td><td>Profil</td><td>Aide</td></tr></table>
 
-## العربية
+## Vos données sur votre téléphone
 
-التوزيع العام قيد الإعداد. لا يوجد ملف APK للإنتاج منشور بعد. ستتوفر الإصدارات الموقعة في قسم Releases. هذا مشروع مستقل وغير تابع لوزارة الداخلية الفرنسية.
+L’enregistrement des identifiants est facultatif. Les données locales sont chiffrées avec une protection liée à Android Keystore. Les sauvegardes cloud et transferts Android sont désactivés. Le verrouillage par empreinte, visage ou code du téléphone est optionnel.
+
+Le suivi ANEF et la vérification des versions nécessitent une connexion. Les informations déjà récupérées et les PDF téléchargés restent consultables hors connexion. Android peut décaler les vérifications en arrière-plan.
+
+## Télécharger et mettre à jour
+
+Les APK signées seront disponibles dans [Releases](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases). Installez une mise à jour **sans désinstaller** l’application. Le fichier d’annonce est signé et ne contient aucun identifiant ANEF. La migration Google Play est prévue mais n’est pas encore disponible.
+
+## Besoin d’aide ?
+
+Consultez [la FAQ](FAQ.md) et l’aide de l’application. Pour signaler un problème dans les issues, indiquez la version de l’app, la version Android et les étapes qui reproduisent le problème. Ne joignez aucun mot de passe, numéro de dossier, document ou capture personnelle.
+
+**English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Public distribution is being prepared.
+
+**العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. التوزيع العام قيد الإعداد.
