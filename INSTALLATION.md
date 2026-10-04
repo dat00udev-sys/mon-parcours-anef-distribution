@@ -4,7 +4,7 @@
 
 Téléphone Android 10 ou version suivante, connexion Internet pour le téléchargement et la première synchronisation, compte ANEF pour consulter vos demandes. Aucun compte propre à Mon Parcours n’est nécessaire.
 
-Le dépôt est actuellement privé. Connectez-vous avec un compte GitHub autorisé pour accéder au brouillon de Release. Les liens publics de téléchargement seront utilisables après le lancement.
+Le téléchargement est public et ne nécessite aucun compte GitHub. Ouvrez la [Release 0.5.3](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases/tag/v0.5.3) pour retrouver l’APK signée et son empreinte.
 
 ## Première installation
 

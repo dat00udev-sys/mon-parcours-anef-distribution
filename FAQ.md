@@ -4,9 +4,9 @@
 
 **Est-elle gratuite ?** Oui, sans publicité pour le moment.
 
-**Pourquoi le téléchargement exige-t-il GitHub ?** Le dépôt est privé pendant la préparation. Un compte autorisé peut accéder au brouillon. Après lancement public, aucun compte GitHub ne sera nécessaire pour télécharger l’APK.
+**Faut-il un compte GitHub pour télécharger ?** Non. L’APK est hébergée sur GitHub Releases et se télécharge librement, sans connexion à GitHub.
 
-**Pourquoi « service de versions injoignable » ?** Le fichier de versions n’est pas publiquement accessible tant que le dépôt reste privé. Une panne de ce service ne compte pas comme un échec de connexion ANEF et un premier fichier indisponible n’ajoute aucune restriction.
+**Pourquoi « service de versions injoignable » ?** Vérifiez votre connexion Internet puis réessayez ; GitHub peut aussi être temporairement indisponible. Une panne de ce service ne compte pas comme un échec de connexion ANEF et un premier fichier indisponible n’ajoute aucune restriction.
 
 **Pourquoi les mises à jour ne s’installent-elles pas seules ?** Le bouton ouvre le téléchargement dans le navigateur. Android demande votre accord pour installer.
 

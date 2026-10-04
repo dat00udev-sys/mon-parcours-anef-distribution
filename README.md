@@ -6,7 +6,7 @@ Une application Android gratuite et sans publicité pour retrouver les informati
 
 **Application indépendante, sans affiliation au ministère de l’Intérieur.** Les messages et décisions du portail officiel font référence. L’application ne dépose pas de demande et ne garantit aucun délai administratif.
 
-Version de référence : **0.5.3 · Android 10 et suivants · Français, English, العربية**. Distribution en préparation : le dépôt reste privé, la Release est un brouillon. Un accès GitHub autorisé est nécessaire pour les téléchargements pendant cette phase.
+Version disponible : **0.5.3 · Android 10 et suivants · Français, English, العربية**. [Télécharger l’APK signée](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases/download/v0.5.3/MonParcours-0.5.3.apk). Aucun compte GitHub nécessaire.
 
 [Installer l’application](INSTALLATION.md) · [Guide d’utilisation](UTILISATION.md) · [Questions fréquentes](FAQ.md) · [Confidentialité](CONFIDENTIALITE.md) · [Nouveautés](CHANGELOG.md)
 
@@ -43,6 +43,6 @@ Les APK signées seront disponibles dans [Releases](https://github.com/dat00udev
 
 Consultez [la FAQ](FAQ.md) et l’aide de l’application. Pour signaler un problème dans les issues, indiquez la version de l’app, la version Android et les étapes qui reproduisent le problème. Ne joignez aucun mot de passe, numéro de dossier, document ou capture personnelle.
 
-**English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Public distribution is being prepared.
+**English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Version 0.5.3 is available for public download.
 
 **العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. التوزيع العام قيد الإعداد.

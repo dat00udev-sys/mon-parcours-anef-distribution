@@ -1,6 +1,6 @@
 # Préparation de lancement — 0.5.3
 
-Le dépôt reste privé jusqu’au GO explicite de publication. La Release 0.5.3 reste un brouillon avec l’APK officielle signée. versions.json annonce 0.5.3/code 8 sans restriction ni échéance, lien prévu /releases/download/v0.5.3/MonParcours-0.5.3.apk. Signature ECDSA vérifiée avec la vraie clé publique.
+Lancement autorisé le 4 octobre 2026 : dépôt public, Release v0.5.3 publiée avec l’APK de production signée. versions.json annonce 0.5.3/code 8 sans restriction ni échéance, lien /releases/download/v0.5.3/MonParcours-0.5.3.apk. Signature ECDSA vérifiée avec la vraie clé publique. Pages réactivé sur main, racine, HTTPS obligatoire.
 
 Les captures viennent de la version de développement sans compte : aucun dossier personnel ou fictif. Les guides et index.html sont prêts pour la distribution.
 
