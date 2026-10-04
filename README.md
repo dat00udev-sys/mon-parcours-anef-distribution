@@ -37,7 +37,7 @@ Le suivi ANEF et la vérification des versions nécessitent une connexion. Les i
 
 ## Télécharger et mettre à jour
 
-Les APK signées seront disponibles dans [Releases](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases). Installez une mise à jour **sans désinstaller** l’application. Le fichier d’annonce est signé et ne contient aucun identifiant ANEF. La migration Google Play est prévue mais n’est pas encore disponible.
+Les APK signées sont disponibles dans [Releases](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases). Installez une mise à jour **sans désinstaller** l’application. Le fichier d’annonce est signé et ne contient aucun identifiant ANEF. La migration Google Play est prévue mais n’est pas encore disponible.
 
 ## Besoin d’aide ?
 
@@ -45,4 +45,4 @@ Consultez [la FAQ](FAQ.md) et l’aide de l’application. Pour signaler un prob
 
 **English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Version 0.5.3 is available for public download.
 
-**العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. التوزيع العام قيد الإعداد.
+**العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. الإصدار 0.5.3 متاح للتنزيل.
