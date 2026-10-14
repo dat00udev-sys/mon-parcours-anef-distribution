@@ -1,5 +1,16 @@
 # Nouveautés
 
+## 1.0.1 — 14 octobre 2026
+
+- Plus fluide : les données chiffrées sont lues une seule fois par écran, au lieu de l’être à chaque affichage ou pour chaque message.
+- Notifications plus claires : les catégories portent leur nom dans les réglages d’Android, et un rappel affiché en mode discret dit « Vous avez un rappel ».
+- Confirmation après la suppression de données, message quand il n’y a aucun rappel, et retour visible quand on active ou coupe le suivi automatique ou le verrouillage.
+- Outils de compilation et bibliothèques mis à jour (Android Gradle Plugin 9.4, Compose 1.12, jsoup 1.23). L’appli se comporte exactement comme avant et pèse un peu moins.
+
+Version Android : code **10**, identifiant **fr.monparcours.anef**. Android 10 et suivants. Même signature que les versions précédentes. La 1.0.0 reste prise en charge : installez la 1.0.1 par-dessus quand l’appli vous le propose.
+
+Tests : 61 tests unitaires et 23 tests Android sans échec, dont un tour complet des écrans en français, anglais et arabe.
+
 ## 1.0.0 — 7 octobre 2026
 
 Première version stable, après un audit de sécurité complet.
