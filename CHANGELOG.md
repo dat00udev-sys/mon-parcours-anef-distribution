@@ -1,5 +1,20 @@
 # Nouveautés
 
+## 1.2.0 — 20 octobre 2026
+
+- **Récapitulatif PDF** de votre parcours (étapes, dates avec leur origine, délai légal), fabriqué sur le téléphone et enregistré où vous le choisissez. Il porte la mention « sans valeur officielle ».
+- **« Ajouter à mon agenda »** pour l’entretien : l’application d’agenda du téléphone s’ouvre avec la date, l’heure et l’adresse.
+- **Suivi automatique proposé dès la connexion**, quand vous enregistrez vos identifiants.
+- **Tirer vers le bas pour actualiser**, aussi sur Mes demandes et Messages.
+- **Widget** : il indique « Rien de nouveau » ou les nouveautés depuis votre dernière visite (« Du nouveau » seulement, en mode discret).
+- **Bouton « Envoyer une notification de test »** dans Suivi et notifications : il vérifie qu’Android laisse passer les alertes.
+- **Plus rapide** : moins de déchiffrements à l’affichage de l’accueil, et démarrage allégé.
+- Libellé de l’entretien corrigé dans la frise.
+
+Version Android : code **12**, identifiant **fr.monparcours.anef**. Android 10 et suivants. Même signature que les versions précédentes. Les versions 1.0.0 à 1.1.0 restent prises en charge.
+
+Tests : 75 tests unitaires (dont une synchronisation contre un faux serveur ANEF) et 26 tests Android sans échec.
+
 ## 1.1.0 — 20 octobre 2026
 
 - **Synchronisation plus rapide et qui ne reste plus bloquée** :
