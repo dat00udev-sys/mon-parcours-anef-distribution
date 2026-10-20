@@ -1,5 +1,22 @@
 # Nouveautés
 
+## 1.1.0 — 20 octobre 2026
+
+- **Synchronisation plus rapide et qui ne reste plus bloquée** :
+  - les lectures ANEF se font en parallèle ;
+  - chaque actualisation est limitée à 45 secondes ;
+  - le détail des nouveaux messages est lu après l’affichage du résultat ;
+  - une rubrique qui ne répond jamais n’est plus retentée.
+- **L’étape en cours s’affiche** (« Lecture de votre dossier… »). Un second appui pendant une actualisation est signalé, au lieu d’être ignoré.
+- **Message clair après chaque actualisation** : « 2 nouveautés : … » ou « Rien de nouveau depuis la dernière actualisation ». Si ANEF répond trop lentement, l’appli le dit.
+- **Accueil simplifié** : une ligne discrète pour l’état de l’actualisation, le bloc « Depuis votre dernière visite » (ancien statut → nouveau statut), la carte du dossier, « À faire », et une seule carte quand une action est nécessaire.
+- **Réglages réorganisés** : une page d’accueil avec cinq catégories (compte, suivi et notifications, apparence et langue, sécurité et données, mises à jour). Chacune ouvre sa propre page.
+- **Notifications de statut** : elles indiquent le nouveau statut et l’ancien.
+
+Version Android : code **11**, identifiant **fr.monparcours.anef**. Android 10 et suivants. Même signature que les versions précédentes. La 1.0.0 et la 1.0.1 restent prises en charge : installez la 1.1.0 par-dessus quand l’appli vous le propose.
+
+Tests : 67 tests unitaires et 24 tests Android sans échec, dont un tour complet des écrans et des pages de réglages en français, anglais et arabe.
+
 ## 1.0.1 — 14 octobre 2026
 
 - Plus fluide : les données chiffrées sont lues une seule fois par écran, au lieu de l’être à chaque affichage ou pour chaque message.
