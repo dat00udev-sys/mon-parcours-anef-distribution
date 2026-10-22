@@ -14,12 +14,12 @@ Version disponible : **1.3.0 · Android 10 et suivants · Français, English, ا
 
 | Écran | À quoi il sert |
 |---|---|
-| Accueil | Retrouver le suivi et les actions utiles après synchronisation. |
-| Mes demandes | Consulter les demandes accessibles, leur statut et les explications adaptées. |
-| Messages | Lire les messages et télécharger les pièces disponibles à la demande. |
-| Rendez-vous | Organiser les rendez-vous et rappels locaux ; vérifier les dates détectées. |
+| Accueil | Votre suivi : dernière vérification, l’action utile du moment, vos dossiers et la prochaine échéance. |
+| Mes dossiers | Statut de chaque demande, puis une fiche en trois parties : Résumé, Parcours (étapes et dates avec leur source) et Documents. |
+| Messages | Rechercher et lire les messages ANEF ; télécharger les pièces jointes à la demande. |
 | Profil | Consulter les informations et titres récupérés depuis ANEF. |
-| Réglages et aide | Choisir la langue, le thème, les alertes et la fréquence ; comprendre les informations affichées. |
+| Mes rappels (depuis l’accueil) | Rendez-vous connus, rappels locaux et dates repérées dans les messages, à confirmer. |
+| Réglages et aide | Connexion ANEF, suivi automatique, notifications, langue et apparence, sécurité et données, mises à jour. |
 
 La naturalisation est le premier parcours suivi. Les titres de séjour et changements de situation sont présentés selon les informations accessibles au compte ; certains formats de demandes actives restent à valider. Une rubrique indisponible n’est pas une preuve d’absence de demande.
 

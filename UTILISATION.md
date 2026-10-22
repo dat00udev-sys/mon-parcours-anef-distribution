@@ -9,14 +9,14 @@ Une fois connecté, actualisez les informations. Une rubrique peut être vide ou
 ## Retrouver vos informations
 
 - **Accueil** : suivi, nouveautés et actions utiles. Vérifiez la date de dernière récupération.
-- **Mes demandes** : demandes en cours et terminées, filtrage par procédure, détails et explications. La date de détection par l’app est distincte d’une date administrative.
-- **Messages** : choisissez la démarche, ouvrez le message puis téléchargez une pièce si vous en avez besoin. Seuls les messages déjà récupérés et documents téléchargés sont disponibles hors connexion.
-- **Rendez-vous** : vérifiez toute date détectée dans un message, puis choisissez ou modifiez vos rappels. Les rappels locaux ne modifient pas un rendez-vous officiel.
+- **Mes dossiers** : dossiers en cours et terminés, filtrage par procédure. Chaque fiche a trois parties : Résumé, Parcours (étapes et dates, avec leur source) et Documents. La date de détection par l’app est distincte d’une date administrative.
+- **Messages** : recherchez ou filtrez, ouvrez le message pour voir ses dates, sa pièce jointe et son dossier, puis téléchargez une pièce si vous en avez besoin. Seuls les messages déjà récupérés et documents téléchargés sont disponibles hors connexion.
+- **Mes rappels** (depuis l’accueil) : vérifiez toute date détectée dans un message, puis choisissez ou modifiez vos rappels. Les rappels locaux ne modifient pas un rendez-vous officiel.
 - **Profil** : informations et titres reçus d’ANEF. Pour corriger une information administrative, utilisez le portail officiel ; une modification locale ne corrige pas ANEF.
 
 ## Choisir votre rythme
 
-Dans **Réglages**, activez le suivi automatique si souhaité, choisissez une fréquence prédéfinie ou un intervalle en heures (1 à 8760). « Wi-Fi uniquement » concerne le suivi ANEF, pas la vérification des mises à jour de l’app. Android peut retarder les tâches selon la batterie et le réseau ; l’heure exacte n’est pas garantie.
+Dans **Réglages › Suivi automatique**, activez le suivi si souhaité, choisissez une fréquence prédéfinie ou un intervalle en heures (1 à 8760). « Wi-Fi uniquement » concerne le suivi ANEF, pas la vérification des mises à jour de l’app. Android peut retarder les tâches selon la batterie et le réseau ; l’heure exacte n’est pas garantie.
 
 Choisissez les catégories de notifications et, si nécessaire, autorisez les notifications dans Android. Vous pouvez définir une plage de silence et limiter les détails visibles sur l’écran verrouillé.
 
