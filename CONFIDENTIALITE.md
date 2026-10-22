@@ -1,6 +1,6 @@
 # Confidentialité
 
-Document de présentation du fonctionnement de la version 1.2.0, mis à jour le 20 octobre 2026.
+Document de présentation du fonctionnement de la version 1.3.0, mis à jour le 22 octobre 2026.
 
 ## Sur le téléphone
 

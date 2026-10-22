@@ -1,5 +1,20 @@
 # Nouveautés
 
+## 1.3.0 — 22 octobre 2026
+
+Nouvelle organisation de l’application, plus simple, sans perdre de fonction.
+
+- **Quatre onglets** : Accueil, Mes dossiers, Messages, Profil. Les rendez-vous et rappels sont dans **Mes rappels**, accessible depuis l’accueil et les dossiers. Les anciennes notifications ouvrent toujours la bonne page.
+- **Accueil « Votre suivi »** : ce qu’il faut faire ou ce qui est nouveau en premier, puis vos dossiers et la prochaine échéance.
+- **Fiche de dossier en trois parties** : Résumé (statut expliqué d’abord, références à déplier), Parcours (frise, délais, Journal officiel) et Documents.
+- **Page de détail pour chaque message** : pièce jointe, accès au dossier, rappel, réponse sur le site ANEF.
+- **Réglages en six rubriques** (Connexion ANEF, Suivi automatique, Notifications, Langue et apparence, Sécurité et données, Mises à jour), ouverts par la roue dentée, avec un retour vers la page d’où vous venez.
+- Une rubrique ANEF non lue est signalée avec la date des données conservées.
+
+Version Android : code **13**, identifiant **fr.monparcours.anef**. Android 10 et suivants. Même signature que les versions précédentes. Vos données, rappels et réglages sont conservés.
+
+Tests : 80 tests unitaires et 28 tests Android sans échec, dont des parcours complets avec des données fictives, en français, anglais et arabe.
+
 ## 1.2.0 — 20 octobre 2026
 
 - **Récapitulatif PDF** de votre parcours (étapes, dates avec leur origine, délai légal), fabriqué sur le téléphone et enregistré où vous le choisissez. Il porte la mention « sans valeur officielle ».
