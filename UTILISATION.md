@@ -8,8 +8,8 @@ Une fois connecté, actualisez les informations. Une rubrique peut être vide ou
 
 ## Retrouver vos informations
 
-- **Accueil** : suivi, nouveautés et actions utiles. Vérifiez la date de dernière récupération.
-- **Mes dossiers** : dossiers en cours et terminés, filtrage par procédure. Chaque fiche a trois parties : Résumé, Parcours (étapes et dates, avec leur source) et Documents. La date de détection par l’app est distincte d’une date administrative.
+- **Accueil** : suivi, nouveautés et actions utiles, puis **Mes dossiers** : tous vos dossiers en cours, les terminés repliés en dessous. Vérifiez la date de dernière récupération.
+- **Fiche d’un dossier** (touchez-le sur l’accueil) : trois parties, Résumé, Parcours (étapes et dates, avec leur source) et Documents. La date de détection par l’app est distincte d’une date administrative.
 - **Messages** : recherchez ou filtrez, ouvrez le message pour voir ses dates, sa pièce jointe et son dossier, puis téléchargez une pièce si vous en avez besoin. Seuls les messages déjà récupérés et documents téléchargés sont disponibles hors connexion.
 - **Mes rappels** (depuis l’accueil) : vérifiez toute date détectée dans un message, puis choisissez ou modifiez vos rappels. Les rappels locaux ne modifient pas un rendez-vous officiel.
 - **Profil** : informations et titres reçus d’ANEF. Pour corriger une information administrative, utilisez le portail officiel ; une modification locale ne corrige pas ANEF.

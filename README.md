@@ -6,7 +6,7 @@ Une application Android gratuite et sans publicité pour retrouver les informati
 
 **Application indépendante, sans affiliation au ministère de l’Intérieur.** Les messages et décisions du portail officiel font référence. L’application ne dépose pas de demande et ne garantit aucun délai administratif.
 
-Version disponible : **1.3.0 · Android 10 et suivants · Français, English, العربية**. [Télécharger l’APK signée](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases/download/v1.3.0/MonParcours-1.3.0.apk). Aucun compte GitHub nécessaire.
+Version disponible : **1.4.0 · Android 10 et suivants · Français, English, العربية**. [Télécharger l’APK signée](https://github.com/dat00udev-sys/mon-parcours-anef-distribution/releases/download/v1.4.0/MonParcours-1.4.0.apk). Aucun compte GitHub nécessaire.
 
 [Installer l’application](INSTALLATION.md) · [Guide d’utilisation](UTILISATION.md) · [Questions fréquentes](FAQ.md) · [Confidentialité](CONFIDENTIALITE.md) · [Nouveautés](CHANGELOG.md)
 
@@ -14,12 +14,12 @@ Version disponible : **1.3.0 · Android 10 et suivants · Français, English, ا
 
 | Écran | À quoi il sert |
 |---|---|
-| Accueil | Votre suivi : dernière vérification, l’action utile du moment, vos dossiers et la prochaine échéance. |
-| Mes dossiers | Statut de chaque demande, puis une fiche en trois parties : Résumé, Parcours (étapes et dates avec leur source) et Documents. |
+| Accueil | Votre suivi : dernière vérification, l’action utile du moment, tous vos dossiers (les terminés repliés) et la prochaine échéance. |
+| Fiche d’un dossier (depuis l’accueil) | Trois parties : Résumé, Parcours (étapes et dates avec leur source) et Documents. |
 | Messages | Rechercher et lire les messages ANEF ; télécharger les pièces jointes à la demande. |
 | Profil | Consulter les informations et titres récupérés depuis ANEF. |
 | Mes rappels (depuis l’accueil) | Rendez-vous connus, rappels locaux et dates repérées dans les messages, à confirmer. |
-| Réglages et aide | Connexion ANEF, suivi automatique, notifications, langue et apparence, sécurité et données, mises à jour. |
+| Réglages | Connexion ANEF, suivi automatique, notifications, langue et apparence, sécurité et données, mises à jour, aide. |
 
 La naturalisation est le premier parcours suivi. Les titres de séjour et changements de situation sont présentés selon les informations accessibles au compte ; certains formats de demandes actives restent à valider. Une rubrique indisponible n’est pas une preuve d’absence de demande.
 
@@ -37,6 +37,6 @@ Les APK signées sont disponibles dans [Releases](https://github.com/dat00udev-s
 
 Consultez [la FAQ](FAQ.md) et l’aide de l’application. Pour signaler un problème dans les issues, indiquez la version de l’app, la version Android et les étapes qui reproduisent le problème. Ne joignez aucun mot de passe, numéro de dossier, document ou capture personnelle.
 
-**English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Version 1.3.0 is available for public download.
+**English:** An independent, free Android app for understanding and following information available in your ANEF account. Android 10+, French, English and Arabic. Version 1.4.0 is available for public download.
 
-**العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. الإصدار 1.3.0 متاح للتنزيل.
+**العربية:** تطبيق أندرويد مستقل ومجاني لفهم ومتابعة المعلومات المتاحة في حساب ANEF. يدعم أندرويد 10 فما فوق والفرنسية والإنجليزية والعربية. الإصدار 1.4.0 متاح للتنزيل.

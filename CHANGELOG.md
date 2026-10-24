@@ -1,5 +1,18 @@
 # Nouveautés
 
+## 1.4.0 — 24 octobre 2026
+
+- **Accueil et Mes dossiers réunis** : tous vos dossiers en cours sont sur l’accueil. Les dossiers terminés sont repliés en dessous, avec l’avertissement si une rubrique ANEF n’a pas pu être lue.
+- **Réglages en onglet** : Accueil, Messages, Profil, Réglages. La roue dentée disparaît des en-têtes, et l’Aide est dans Réglages.
+- **Grand texte** : plus rien n’est coupé quand la taille du texte d’Android est au maximum (frise du parcours, onglets, liens, choix de la langue et du thème).
+- **Android 17** pris en charge.
+- Les dates à confirmer de Mes rappels viennent des messages de toutes les démarches.
+- La mention « application indépendante » est en haut de l’Aide. Une ancienne demande sans statut s’affiche « Demande clôturée ».
+
+Version Android : code **14**, identifiant **fr.monparcours.anef**. Android 10 et suivants. Même signature que les versions précédentes. Vos données, rappels et réglages sont conservés ; les anciennes notifications ouvrent toujours la bonne page.
+
+Tests : 95 tests unitaires sans échec, dont toutes les pages vérifiées en français, anglais et arabe, avec le texte au maximum et sur petit écran ; 30 tests Android sans échec sous Android 17.
+
 ## 1.3.0 — 22 octobre 2026
 
 Nouvelle organisation de l’application, plus simple, sans perdre de fonction.
